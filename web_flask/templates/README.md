@@ -1,1 +1,1 @@
-Thisis is my readme file on templates
+This is is my readme file on templates
